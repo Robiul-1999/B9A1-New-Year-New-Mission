@@ -164,8 +164,12 @@ body {
 
 .portfolio-picture {
     gap: 20px;
-    padding-left: 30px;
     margin-bottom: 100px;
+}
+
+.portfolio-picture img {
+    width:440px;
+    height: 400px;
 }
 
 .subscribe {
